@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GraphAssignmentRevisited</string>
+    <string name="ph_minutes_added_to_your_life_till_date">Minutes added to your life till date</string>
+    <string name="mins">mins</string>
+    <string name="ph_sample_date">25 Feb 2017</string>
+    <string name="ph_total_till_date">Total till date</string>
+    <string name="ph_03">03</string>
+    <string name="ph_105">105</string>
+    <string name="till_date">till date</string>
+    <string name="total">Total</string>
+</resources>
